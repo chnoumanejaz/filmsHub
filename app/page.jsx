@@ -1,5 +1,5 @@
 import DisplaySection from './components/DisplaySection';
-
+temp line fork test
 export default function Home() {
   return (
     <div className="transition">
